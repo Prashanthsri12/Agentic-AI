@@ -2,5 +2,7 @@ langchain
 langchain_community
 langchain-openai
 langchain-groq
+langgraph
+langsmith
 python-dotenv
 langchain-google-genai
