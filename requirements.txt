@@ -8,3 +8,7 @@ python-dotenv
 langchain-google-genai
 langchain-mcp-adapters
 mcp
+langchain-core
+pypdf
+pymupdf
+ipykernel
